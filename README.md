@@ -91,7 +91,7 @@ Features include property listings, search, authentication (JWT), favorites, and
 
 2. **Create `.env` file**
    ```env
-   VITE_API_BASE_URL=https://localhost:7029
+   VITE_API_URL=https://localhost:7029/
    ```
 
 3. **Install dependencies**
