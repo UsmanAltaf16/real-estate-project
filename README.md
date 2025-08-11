@@ -62,7 +62,7 @@ Features include property listings, search, authentication (JWT), favorites, and
      "Audience": "RealEstateClient"
    }
    ```
-3. ### Install EF Core CLI (Required for Migrations)
+3. **Install EF Core CLI (Required for Migrations)**
    The backend uses Entity Framework Core Code First.  
    Install the EF Core CLI tool globally:
    ```sh
